@@ -4,3 +4,5 @@
 demo/db.sqlite3
 Pipfile.lock
 __pycache__
+.env
+db_data
