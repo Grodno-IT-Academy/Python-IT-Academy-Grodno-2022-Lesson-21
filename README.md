@@ -10,4 +10,5 @@
 
 ```shell
 docker compose up
+docker compose -f docker-compose-deploy.yml up --build
 ```
