@@ -41,7 +41,6 @@ services:
       - "8080"
     depends_on:
       - app
-      - db
 
 volumes:
   static_data:
